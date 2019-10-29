@@ -7,3 +7,6 @@ L:\InheritanceAndVirtualClasses\InheritanceAndVirtualClasses\obj\Debug\Inheritan
 L:\InheritanceAndVirtualClasses\InheritanceAndVirtualClasses\obj\Debug\InheritanceAndVirtualClasses.csproj.GenerateResource.cache
 L:\InheritanceAndVirtualClasses\InheritanceAndVirtualClasses\obj\Debug\InheritanceAndVirtualClasses.exe
 L:\InheritanceAndVirtualClasses\InheritanceAndVirtualClasses\obj\Debug\InheritanceAndVirtualClasses.pdb
+C:\Users\Иероглиф\Documents\GitHub\Inheritance-and-VirtualClasses\InheritanceAndVirtualClasses\bin\Debug\InheritanceAndVirtualClasses.exe.config
+C:\Users\Иероглиф\Documents\GitHub\Inheritance-and-VirtualClasses\InheritanceAndVirtualClasses\obj\Debug\InheritanceAndVirtualClasses.exe
+C:\Users\Иероглиф\Documents\GitHub\Inheritance-and-VirtualClasses\InheritanceAndVirtualClasses\obj\Debug\InheritanceAndVirtualClasses.pdb
